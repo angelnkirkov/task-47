@@ -1,3 +1,28 @@
 /**
  * Fonts
 */
+
+@import url("https://p.typekit.net/p.css?s=1&k=lmu2etf&ht=tk&f=10886&a=87735430&app=typekit&e=css");
+
+@font-face {
+  font-family: 'futura-pt', sans-serif;
+  src: url("https://use.typekit.net/af/ae4f6c/000000000000000000010096/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3")
+      format("woff2"),
+    url("https://use.typekit.net/af/ae4f6c/000000000000000000010096/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3")
+      format("woff"),
+    url("https://use.typekit.net/af/ae4f6c/000000000000000000010096/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3")
+      format("opentype");
+  font-display: auto;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.tk-futura-pt {
+  font-family: "futura-pt", sans-serif;
+}
+
+.html {
+  font-family: 'futura-pt', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
